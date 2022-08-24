@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project_tugas</string>
+    <string name="vaksin_dan_imunisasi">Vaksin dan Imunisasi</string>
+    <string name="vaksin_covid_19">Vaksin COVID-19</string>
+    <string name="verifikator_check_in">Verifikator Check-In</string>
+    <string name="imunisasi_anak">Imunisasi Anak</string>
+    <string name="cek_sertifikat_vaksin_anda_disini">Cek sertifikat vaksin anda disini</string>
+    <string name="verifikasi_sertifikat_vaksin_format_eu">Verifikasi sertifikat vaksin format EU</string>
+</resources>
